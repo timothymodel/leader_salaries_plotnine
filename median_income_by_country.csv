@@ -1,4 +1,4 @@
-Entity,Code,Year,Median (2021 prices) - Income or consumption consolidated,
+country,code,year,median_daily_income_or_consumption,median_annual_income_consumption
 Albania,ALB,1996,7.4193306,1929.025956
 Albania,ALB,2002,7.1171546,1850.460196
 Albania,ALB,2005,8.300112,2158.02912
@@ -51,7 +51,7 @@ Argentina (urban),,2019,20.6713,5374.538
 Argentina (urban),,2020,18.155481,4720.42506
 Argentina (urban),,2021,19.55321,5083.8346
 Argentina (urban),,2022,18.891396,4911.76296
-Argentina (urban),,2023,18.541737,4820.85162
+Argentina,,2023,18.541737,4820.85162
 Armenia,ARM,1999,4.5130086,1173.382236
 Armenia,ARM,2001,4.3352914,1127.175764
 Armenia,ARM,2002,4.5468674,1182.185524
